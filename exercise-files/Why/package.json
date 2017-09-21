@@ -1,0 +1,24 @@
+{
+  "name": "less",
+  "version": "1.0.0",
+  "description": "package.json file for less class",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "c:/nerdery/sassafras/exercise-files/Why"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "sassmaster",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-less": "file:grunt-contrib-less",
+    "grunt-contrib-watch": "^1.0.0",
+    "jit-grunt": "^0.10.0"
+  }
+}
